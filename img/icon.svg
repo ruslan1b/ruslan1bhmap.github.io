@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<svg width="1200" height="800" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0{fill:#DCDBDB;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:20;}
+	.st2{fill:#BCBCBC;}
+	.st3{fill:#A5D5A1;}
+	.st4{fill:#9BD9E3;}
+	.st5{fill:#636363;}</style>
+ <g class="layer">
+  <title>Layer 1</title>
+  <path class="st0" d="m1200,114.8l-1200,0l0,-119.9l1200,0l0,119.9z" fill="black" id="svg_1"/>
+  <path class="st1" d="m1200,56.9l-1200,0" fill="black" id="svg_2"/>
+  <path class="st2" d="m1055.9,793.9l-143.1,0l0,-597.2l143.1,0l0,597.2z" fill="black" id="svg_3"/>
+  <path class="st2" d="m1200,585.2l-127,0l0,-388.5l127,0l0,388.5z" fill="black" id="svg_4"/>
+  <path class="st2" d="m896.7,736.6l-115.4,0l0,-36.2l115.4,0l0,36.2z" id="svg_5"/>
+  <circle class="st3" cx="273.1" cy="742" fill="black" id="svg_6" r="51.1"/>
+  <path class="st2" d="m284.8,234l-86.9,0l0,-94.4l86.9,0l0,94.4z" fill="black" id="svg_7"/>
+  <path class="st0" d="m130.5,800.1l-130.5,0l0,-684.1l130.5,0l0,684.1z" fill="black" id="svg_8"/>
+  <path class="st1" d="m65.2,796.9l0,-734" fill="black" id="svg_9"/>
+  <path class="st2" d="m284.8,505.8l-43.4,0l0,-250.8l43.4,0l0,250.8z" fill="black" id="svg_10"/>
+  <path class="st2" d="m221.1,505.7l-68.8,0l0,-250.6l68.8,0l0,250.6z" fill="black" id="svg_11"/>
+  <path class="st2" d="m182.6,196.7l-30.3,0l0,-57.5l30.3,0l0,57.5z" fill="black" id="svg_12"/>
+  <path class="st2" d="m770.7,736.6l-115.4,0l0,-36.2l115.4,0l0,36.2z" id="svg_13"/>
+  <path class="st2" d="m896.7,783.1l-115.4,0l0,-36.2l115.4,0l0,36.2z" id="svg_14"/>
+  <path class="st2" d="m770.7,783.1l-115.4,0l0,-36.2l115.4,0l0,36.2z" id="svg_15"/>
+  <path class="st4" d="m1170.7,769.4c-30.4,23.4 -88.2,6.4 -96.9,-18.4c-7.7,-22 25.6,-43.5 15,-75.2c-3.8,-11.5 -10.9,-16.8 -11.7,-31.7c-0.1,-2.4 -1,-24 10,-31.7c16.5,-11.6 57.1,9.5 78.5,38.4c24.1,32.5 37.7,93.4 5.1,118.6z" fill="black" id="svg_16"/>
+  <circle class="st3" cx="190.6" cy="578.6" fill="black" id="svg_17" r="42.8"/>
+  <circle class="st3" cx="1158" cy="156.8" id="svg_18" r="30"/>
+  <circle class="st3" cx="1086" cy="156.8" id="svg_19" r="30"/>
+  <circle class="st3" cx="1011.7" cy="156.8" id="svg_20" r="30"/>
+  <path class="st2" d="m637.5,783.1l-297.2,0l0,-80.8l297.2,0l0,80.8z" fill="black" id="svg_21"/>
+  <circle class="st3" cx="176.3" cy="750.5" fill="black" id="svg_22" r="27.1"/>
+  <path class="st0" d="m899.6,682.5l-771.6,0l0,-42.5l771.6,0l0,42.5z" fill="black" id="svg_23"/>
+  <circle class="st3" cx="265.1" cy="595.7" fill="black" id="svg_24" r="22.7"/>
+  <circle class="st3" cx="940.8" cy="156.8" fill="black" id="svg_25" r="30"/>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_36" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="484.66667" xml:space="preserve" y="749">Time is end</text>
+  <rect class="st4" fill="black" height="475.00003" id="svg_26" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="574.99999" x="317.5" y="141.5"/>
+ </g>
+</svg>
