@@ -1,0 +1,14 @@
+{
+  "name": "@michaeld/world-history-timeline",
+  "main": "1dd85e9908adc80d@818.js",
+  "version": "818.0.0",
+  "homepage": "https://observablehq.com/@michaeld/world-history-timeline",
+  "author": {
+    "name": "Michael Dowling",
+    "url": "https://observablehq.com/@michaeld"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
