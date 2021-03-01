@@ -4,7 +4,7 @@ export default function define(runtime, observer) {
     const main = runtime.module();
     main.variable(observer()).define(["md"], function(md) {
         return (
-            md `# Historical Map V1.02
+            md `# Historical Map V1.04
 `
         )
     });
