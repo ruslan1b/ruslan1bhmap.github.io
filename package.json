@@ -1,0 +1,12 @@
+{
+    "name": "historical-map",
+    "version": "1.0.4",
+    "description": "HistoricalMap",
+    "main": "server.js",
+    "author": {
+        "name": ""
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
