@@ -223,7 +223,7 @@ export default function define(runtime, observer) {
     });
     main.variable(observer("csv")).define("csv", ["d3"], function(d3) {
         return (
-            d3.csv("/data/time.csv")
+            d3.csv("/data/timelines.csv")
         )
     });
     main.variable(observer("data")).define("data", ["csv"], function(csv) {
