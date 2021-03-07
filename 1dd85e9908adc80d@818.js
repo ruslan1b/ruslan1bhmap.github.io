@@ -223,7 +223,7 @@ export default function define(runtime, observer) {
     });
     main.variable(observer("csv")).define("csv", ["d3"], function(d3) {
         return (
-            d3.csv("/data/timelines.csv")
+            d3.csv("https://raw.githubusercontent.com/ruslan1b/ruslan1bhmap.github.io/v1.04/data/time.csv")
         )
     });
     main.variable(observer("data")).define("data", ["csv"], function(csv) {
