@@ -1,8 +1,16 @@
-'use strict';
-var http = require('http');
-var port = process.env.PORT || 1337;
+const express = require("express");
 
-http.createServer(function (req, res) {
-    res.writeHead(200, { 'Content-Type': 'text/plain' });
-    res.end('Hello World\n');
-}).listen(port);
+const app = express();
+
+//app.use(express.static(__dirname + "/public"));
+app.use(express.static(__dirname));
+app.use(express.static(__dirname + "/js"));
+app.use(express.static(__dirname + "/data"));
+
+
+app.use("/", function(request, response) {
+
+    response.send("<h1>Главная страница</h1>");
+});
+
+app.listen(3000);
